@@ -1,44 +1,53 @@
 /* Write CSS Here */
 * {
+	
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 }
 body {
-	background-color: rgb(253, 254, 255);
+	
+	background-color: rgb(233, 218, 197);
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	
 }
 .full {
+	
 	width: 70%;
-	max-width: 1000px;
+	max-width: 1200px;
 	min-height: 100px;
 	background-color: rgb(245, 239, 231);
-	margin: 0px;
+	margin: 35px;
 	display: grid;
 	grid-template-columns: 2fr 4fr;
 	border-style: groove;
 }
 .left {
 	position: initial;
-	background-color: rgb(237, 185, 250);
+	background-color: rgb(238, 201, 167);
 	padding: 20px;
 	border-style: groove;
 
 }
 .right {
 	position: initial;
-	background-color: rgb(237, 234, 238);
+	background-color: rgb(255, 255, 255);
 	padding: 20px;
 	border-style: groove;
 
 }
+
+
 .image, .Contact, .Skills, .Language, .Hobbies, .title, 
-.Summary, .Experience, .Education, .project {
+.Summary, .Experience, .Education, .courses, .publications {
 	margin-bottom: 30px;
 }
 .h2 {
 	background-color: rgb(0, 78, 122);
+}
+
+ul{
+	margin-left: 25px;
 }
