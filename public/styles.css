@@ -8,7 +8,7 @@
 body {
 	
 	background-color: rgb(233, 218, 197);
-	display: flex;
+	display: flex; 
 	justify-content: center;
 	align-items: center;
 	background-image: url("85071-OH5I2G-898.jpg");
@@ -16,7 +16,7 @@ body {
 }
 .full {
 	
-	width: 70%;
+	width: 80%;
 	max-width: 1200px;
 	min-height: 100px;
 	background-color: rgb(245, 239, 231);
