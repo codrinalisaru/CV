@@ -25,7 +25,7 @@ body {
 	grid-template-columns: 2fr 4fr;
 	border-style: groove;
 	border-radius: 25px;
-	box-shadow: 5px 10px;
+	/* box-shadow: 5px 5px 5px 5px #4f4f4e; */
 }
 .left {
 	font-family: Arial;
@@ -50,7 +50,7 @@ body {
 }
 
 
-.image, .Contact, .Skills, .Language, .Hobbies, .title, 
+.Contact, .Skills, .Language, .Hobbies, .title, 
 .Summary, .Experience, .Education, .courses, .publications {
 	margin-bottom: 30px;
 }
@@ -64,5 +64,9 @@ ul{
 
 img {
 	border-radius: 50%;
-	margin-left: 100px;
 }
+
+.image{
+	margin-bottom: 30px;
+	text-align: center;
+} 
