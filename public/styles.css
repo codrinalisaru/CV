@@ -70,3 +70,17 @@ img {
 	margin-bottom: 30px;
 	text-align: center;
 } 
+
+table{
+	border:1px solid black;
+	border-collapse: collapse;
+	table-layout: fixed;
+  }
+
+td{
+	border:1px solid black;
+	border-collapse: collapse;
+	table-layout: fixed;
+	padding-left:20px;
+}
+  
