@@ -6,3 +6,5 @@ Examples of resumes:
 
 https://resume-thomas-leon-highbaugh.vercel.app/
 
+https://chandrikadeb7.github.io/chandrikadeb7.github.io-v1/
+
