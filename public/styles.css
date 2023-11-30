@@ -23,8 +23,9 @@ body {
 	margin: 35px;
 	display: grid;
 	grid-template-columns: 2fr 4fr;
-	border-style: groove;
-	border-radius: 25px;
+	/* border-style: groove; */
+	/* border-style: solid; */
+	/* border-radius: 25px; */
 	/* box-shadow: 5px 5px 5px 5px #4f4f4e; */
 }
 .left {
@@ -34,8 +35,9 @@ body {
 	position: initial;
 	background-color: rgb(241, 222, 157);
 	padding: 20px;
-	border-style: groove;
-	border-radius: 25px;
+	/* border-style: groove; */
+	border-style: none;
+	/* border-radius: 25px; */
 
 }
 .right {
@@ -44,8 +46,9 @@ body {
 	line-height: 1.8;
 	background-color: rgb(255, 255, 255);
 	padding: 20px;
-	border-style: groove;
-	border-radius: 25px;
+	/* border-style: groove; */
+	/* border-radius: 25px; */
+	border-style: none;
 
 }
 
