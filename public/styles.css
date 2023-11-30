@@ -11,7 +11,8 @@ body {
 	display: flex; 
 	justify-content: center;
 	align-items: center;
-	background-image: url("85071-OH5I2G-898.jpg");
+	background-color: rgb(199, 199, 199);
+	/* background-image: url("85071-OH5I2G-898.jpg"); */
 	
 }
 .full {
@@ -33,7 +34,7 @@ body {
 	font-size: 16px;
 	line-height: 1.8;
 	position: initial;
-	background-color: rgb(241, 222, 157);
+	background-color: rgb(94, 211, 191);
 	padding: 20px;
 	/* border-style: groove; */
 	border-style: none;
