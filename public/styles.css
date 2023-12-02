@@ -69,6 +69,7 @@ ul{
 
 img {
 	border-radius: 50%;
+	border-style: groove;
 }
 
 .image{
