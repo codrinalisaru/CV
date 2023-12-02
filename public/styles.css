@@ -24,6 +24,7 @@ body {
 	margin: 35px;
 	display: grid;
 	grid-template-columns: 2fr 4fr;
+	border-style: groove;
 	/* border-style: groove; */
 	/* border-style: solid; */
 	/* border-radius: 25px; */
