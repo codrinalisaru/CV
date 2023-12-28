@@ -11,7 +11,7 @@ body {
 	display: flex; 
 	justify-content: center;
 	align-items: center;
-	background-color: rgb(199, 199, 199);
+	background-color: rgb(231, 230, 230);
 	/* background-image: url("85071-OH5I2G-898.jpg"); */
 	
 }
@@ -89,4 +89,5 @@ td{
 	table-layout: fixed;
 	padding-left:20px;
 }
+
   
