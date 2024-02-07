@@ -70,6 +70,7 @@ ul{
 img {
 	border-radius: 70%;
 	border-style: groove;
+	object-fit: cover;
 }
 
 .image{
