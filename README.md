@@ -1,6 +1,3 @@
-Here you can find my online resume: https://codrinalisaru.github.io/CV/
-
-
 Examples of resumes:
 
 https://resume-thomas-leon-highbaugh.vercel.app/
