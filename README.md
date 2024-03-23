@@ -1,3 +1,6 @@
+Here you can find my resume. For more details, you can contact me. 
+
+
 Examples of resumes:
 
 https://resume-thomas-leon-highbaugh.vercel.app/
