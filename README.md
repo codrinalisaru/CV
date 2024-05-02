@@ -1,5 +1,4 @@
-Here you can find my resume. For more details, you can contact me. 
-
+Here you can find my resume. 
 
 Examples of resumes:
 
