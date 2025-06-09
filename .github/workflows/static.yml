@@ -24,12 +24,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Build site
-        run: |
-          npm install
-          npm run build
-        # Make sure output is going into `public/`
-
       - name: Setup Pages
         uses: actions/configure-pages@v3
 
