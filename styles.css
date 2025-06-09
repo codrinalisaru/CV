@@ -1,0 +1,94 @@
+/* Write CSS Here */
+* {
+	
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	
+	background-color: rgb(233, 218, 197);
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	background-color: rgb(231, 230, 230);
+	/* background-image: url("85071-OH5I2G-898.jpg"); */
+	
+}
+.full {
+	
+	width: 80%;
+	max-width: 1200px;
+	min-height: 100px;
+	background-color: rgb(245, 239, 231);
+	margin: 35px;
+	display: grid;
+	grid-template-columns: 2fr 4fr;
+	border-style: groove;
+	/* border-style: groove; */
+	/* border-style: solid; */
+	/* border-radius: 25px; */
+	/* box-shadow: 5px 5px 5px 5px #4f4f4e; */
+}
+.left {
+	font-family: Arial;
+	font-size: 16px;
+	line-height: 2;
+	position: initial;
+	background-color: rgb(226, 226, 226);
+	padding: 20px;
+	/* border-style: groove; */
+	border-style: none;
+	/* border-radius: 25px; */
+
+}
+.right {
+	position: initial;
+	font-family: Arial;
+	line-height: 1.8;
+	background-color: rgb(255, 255, 255);
+	padding: 20px;
+	/* border-style: groove; */
+	/* border-radius: 25px; */
+	border-style: none;
+
+}
+
+
+.Contact, .Skills, .Language, .Hobbies, .title, 
+.Summary, .Experience, .Education, .courses, .publications {
+	margin-bottom: 30px;
+}
+.h2 {
+	background-color: rgb(255, 255, 255);
+}
+
+ul{
+	margin-left: 25px;
+}
+
+img {
+	border-radius: 70%;
+	border-style: groove;
+	object-fit: cover;
+}
+
+.image{
+	margin-bottom: 30px;
+	text-align: center;
+} 
+
+table{
+	border:1px solid black;
+	border-collapse: collapse;
+	table-layout: fixed;
+  }
+
+td{
+	border:1px solid black;
+	border-collapse: collapse;
+	table-layout: fixed;
+	padding-left:20px;
+}
+
+  
